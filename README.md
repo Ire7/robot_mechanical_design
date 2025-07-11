@@ -56,6 +56,7 @@ Execution Algorithm:
 6. The robot returns to the starting point.
 7. The process repeats.
 
+# Execution Algorithm
    | Element                 | Value                       |
 | ----------------------- | --------------------------- |
 | Horizontal Reach Radius | 50 cm                       |
@@ -63,6 +64,8 @@ Execution Algorithm:
 | Arm Rotation Angle      | Up to 180°                  |
 | Lifting Capacity        | 2–3 kg                      |
 | Workspace Coverage      | Between two warehouse zones |
+
+
 
 This mechanical design shows a robot that transfers items from one warehouse to another without human involvement.
 All components were designed using Cinema 4D with realistic dimensions and movement behavior.
